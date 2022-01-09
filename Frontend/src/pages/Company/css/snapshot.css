@@ -1,0 +1,32 @@
+.infobox {
+    background: #e8f1f3;
+    text-align: right;
+}
+
+.infobox:after {
+    border-bottom-color: #e8f1f3;
+    left: 93%
+}
+
+.infobox1 {
+    color: #444;
+    padding: 18px 20px;
+    line-height: 26px;
+    font-size: 16px;
+    border-radius: 7px;
+    display: inline-block;
+    position: relative
+}
+
+.infobox1:after {
+    bottom: 100%;
+    left: 7%;
+    border: solid transparent;
+    content: " ";
+    height: 0;
+    width: 0;
+    position: absolute;
+    pointer-events: none;
+    border-bottom-color: #e8f1f3;
+    border-width: 10px;
+}

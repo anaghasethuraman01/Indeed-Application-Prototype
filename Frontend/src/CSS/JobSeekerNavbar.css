@@ -1,0 +1,47 @@
+li:hover {
+    color: #003399;
+    border-bottom: 3px solid #003399;
+  }
+
+  .dropdown-menu {
+    width: 500px !important;
+    margin-left: -90px;
+}
+.spandrop
+{
+  font-size: medium;
+  font-weight: 600;
+  margin-left: 20px;
+  margin-right: 80px;
+  color: '#474747';
+}
+
+.dropemail
+{
+  font-size: medium;
+  font-weight: bold;
+  margin-left: 20px;
+  margin-right: 100px;
+  margin-bottom: 30px;
+}
+
+.ditems
+{
+  margin-bottom: 20px;
+
+}
+
+.signoutdrop
+{
+  color: #003399;
+  font-size: medium;
+  font-weight: bold;
+  margin-left: 50px;
+  cursor: pointer;
+}
+
+
+/* nav .navbar-nav li a :active{
+  border-bottom: 3px solid #003399;
+  background-color: white;
+  } */

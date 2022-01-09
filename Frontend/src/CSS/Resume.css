@@ -1,0 +1,16 @@
+.rounded-corner {
+    border-radius: '15px 15px 15px 15px';
+}
+
+.fieldbox {
+    box-shadow:'1px 1px 1px 1px darkgray';
+    border:'1px solid darkgray';
+    padding:'20px 20px 5px 20px'
+}
+
+.center-resume {
+    margin-top:'5%';
+    margin-right:'auto';
+    margin-left:'auto';
+    width:'50%'
+}

@@ -1,0 +1,30 @@
+.container1 {
+	width: 100%;
+	margin:auto;
+	display: grid;
+	grid-template-columns: repeat(4, 1fr);
+    gap: 10px;
+}
+
+.image-card {
+    height:136px;
+    width:136px;
+}
+
+.image {
+	height:136px;
+    width:136px;
+}
+
+.image-card1 {
+    height:190px;
+    width:170px;
+}
+
+.container2 {
+	width: 100%;
+	margin:auto;
+	display: grid;
+	grid-template-columns: repeat(4, 1fr);
+    gap: 5px;
+}

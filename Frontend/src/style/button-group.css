@@ -1,0 +1,21 @@
+.customButton {
+  border: 1px solid gray;
+  color: steelblue;
+}
+
+.active {
+  color: white !important;
+  border: 1px solid gray !important;
+  background: #595959 !important;
+}
+
+.customButton:hover {
+  background-color: steelblue;
+  color: white;
+  border: 1px solid gray !important;
+}
+
+.active:focus {
+  outline: none;
+  box-shadow: none;
+}

@@ -1,1 +1,0 @@
-# Indeed-Application-Prototype
